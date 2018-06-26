@@ -1,0 +1,19 @@
+{
+  "name": "landing-page",
+  "version": "1.0.0",
+  "description": "project for freecodecamp - landing page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "git": "https://github.com/neodynia/landing-page.git"
+  },
+  "keywords": [
+    "landing",
+    "page",
+    "project"
+  ],
+  "author": "ryan boris",
+  "license": "ISC"
+}
