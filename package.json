@@ -15,5 +15,8 @@
     "project"
   ],
   "author": "ryan boris",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^9.1.0"
+  }
 }
